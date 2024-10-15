@@ -23,4 +23,5 @@ This is a classic Snake game implemented using Python's `tkinter` library. Contr
 
 ## Usage
 Run the game:
-
+```bash
+python snake_game.py
