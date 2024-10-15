@@ -16,7 +16,7 @@ This is a classic Snake game implemented using Python's `tkinter` library. Contr
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Snake-game
+    cd Snake_game
     ```
 3. Make sure you have Python installed. You can download it from [python.org](https://www.python.org/).
 4. Install the necessary dependencies (if any). For `tkinter`, it comes pre-installed with Python.
